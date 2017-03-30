@@ -4,8 +4,8 @@ public class LongSword {
 
 	
 		private LongSwordHilt longSwordHilt;
-		private LongSwordBlade longSwordBlade;
-		private final LongSwordScabbard longSwordScabbard;
+		private final LongSwordBlade longSwordBlade;
+		private LongSwordScabbard longSwordScabbard;
 	
 
 		private LongSword() throws Exception {
@@ -37,8 +37,4 @@ public class LongSword {
 		}
 	
 
-		public LongSword setLongSwordBlade(LongSwordBlade longSwordBlade){
-			this.longSwordBlade = longSwordBlade;
-			return this;
-		}
 	}
