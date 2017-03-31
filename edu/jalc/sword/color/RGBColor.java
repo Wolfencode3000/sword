@@ -1,4 +1,4 @@
-package edu.jalc.sword.color;
+package edu.jalc.sword;
 
 public class RGBColor {
 	private final byte red;

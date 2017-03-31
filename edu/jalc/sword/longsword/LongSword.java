@@ -1,7 +1,5 @@
-		
-public class LongSword {
 	
-
+public class LongSword {
 	
 		private LongSwordHilt longSwordHilt;
 		private final LongSwordBlade longSwordBlade;

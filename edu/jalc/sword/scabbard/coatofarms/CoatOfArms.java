@@ -1,4 +1,4 @@
-package edu.jalc.sword.coatofarms;
+package edu.jalc.sword.scabbard.coatofarms;
 
 public class CoatOfArms {
 	private final double height;

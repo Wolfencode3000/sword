@@ -1,4 +1,4 @@
-package edu.jalc.sword.hilt;
+package edu.jalc.sword.longsword.hilt;
 
 public class LongSwordHilt {
 
@@ -6,7 +6,8 @@ public class LongSwordHilt {
 	private final double radius;
 
 	private LongSwordHilt(){
-		this.height = this.radius = 0;
+		this.height = 0;
+      this.radius = 0;
 	}
 
 	public LongSwordHilt(double height, double radius){
